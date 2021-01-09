@@ -16,19 +16,23 @@ Limit to Fibonacci:999999
 5 : Prime number
 
 8 : equals 2 * 4
+
 13 : Prime number
 
 21 : equals 3 * 7
 34 : equals 2 * 17
 55 : equals 5 * 11
+
 89 : Prime number
 
 144 : equals 2 * 72
+
 233 : Prime number
 
 377 : equals 13 * 29
 610 : equals 2 * 305
 987 : equals 3 * 329
+
 1597 : Prime number
 
 2584 : equals 2 * 1292
@@ -36,6 +40,7 @@ Limit to Fibonacci:999999
 6765 : equals 3 * 2255
 10946 : equals 2 * 5473
 17711 : equals 89 * 199
+
 28657 : Prime number
 
 46368 : equals 2 * 23184
@@ -43,6 +48,7 @@ Limit to Fibonacci:999999
 121393 : equals 233 * 521
 196418 : equals 2 * 98209
 317811 : equals 3 * 105937
+
 514229 : Prime number
 
 832040 : equals 2 * 416020
@@ -65,19 +71,23 @@ Limit to Fibonacci:999999
 5: Prime number
 
 8 : equals 2*4
+
 13: Prime number
 
 21 : equals 3*7
 34 : equals 2*17
 55 : equals 5*11
+
 89: Prime number
 
 144 : equals 2*72
+
 233: Prime number
 
 377 : equals 13*29
 610 : equals 2*305
 987 : equals 3*329
+
 1597: Prime number
 
 2584 : equals 2*1292
@@ -85,6 +95,7 @@ Limit to Fibonacci:999999
 6765 : equals 3*2255
 10946 : equals 2*5473
 17711 : equals 89*199
+
 28657: Prime number
 
 46368 : equals 2*23184
@@ -92,6 +103,7 @@ Limit to Fibonacci:999999
 121393 : equals 233*521
 196418 : equals 2*98209
 317811 : equals 3*105937
+
 514229: Prime number
 
 832040 : equals 2*416020
