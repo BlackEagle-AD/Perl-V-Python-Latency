@@ -116,7 +116,7 @@ of which 9 are Prime Numbers.
 
 
 
-So, the Perl is OBVIOUSLY FASTER, and a more stable coding language.  Now this is to be expected.  It’s a mature language which has been refined and become faster and more stable with it’s of it’s 5th General Perl and subsequent 15 versions.   The hype from Python was mind-boggling, it’s not anywhere near the standard that a professional development language should be.  My only guess as to why it’s lauded, it’s cheap on keystrokes and easy to learn.   It should NOT be topping the lists of requisites by development companies.  But here is the closing argument: Python breaks in this simple program when the limit is 40,000,000 (Forty Million).  It’s lauded as a BIG DATA language; most programming languages handle the number 2,247,483,647 (BIG INT) around Two Billion.  Python simply is collage of quick steps to a weaker foundation backing the language.  Unless I’m missing some ‘switch’, but I’ve the impression that Python is supposed to be the language that doesn’t need the fine-tuning to write a program. 
+So, Perl is OBVIOUSLY FASTER, and a more stable coding language.  Now this is to be expected.  It’s a mature language that has been refined and becomes faster and more stable with it’s of its 5th General Perl and subsequent 15 versions.   The hype from Python was mind-boggling, it’s not anywhere near the standard that a professional development language should be.  My only guess as to why it’s lauded, it’s cheap on keystrokes and easy to learn.   It should NOT be topping the lists of requisites by development companies.  But here is the closing argument: Python breaks in this simple program when the limit is 40,000,000 (Forty Million).  It’s lauded as a BIG DATA language; most programming languages handle the number 2,247,483,647 (BIG INT) around Two Billion.  Python simply is a collage of quick steps to a weaker foundation backing the language.  Unless I’m missing some ‘switch’, but I have got the impression that Python is supposed to be the language that doesn’t need fine-tuning to write a program. 
 
 But first Notice how much FASTER Perl is, which in BIG DATA where it counts most.
 
@@ -136,9 +136,12 @@ Elapsed time: 68.779 MillSec.
 For 35000000 there are 38 values
 in the Fibonacci Sequence;
 of which 9 are Prime Numbers.
- 
-And finally, at 40,000,000 (Forty Million) Python Breaks
 
+*******************************************************************
+*
+*    And finally, at 40,000,000 (Forty Million) Python Breaks
+*
+*******************************************************************
  
 test.python  (40,000,000)
 
@@ -166,4 +169,6 @@ For 1000000000000 there are 60 values
 in the Fibonacci Sequence;
 of which 11 are Prime Numbers.
 
-It’s a good program because the size of the numbers rapidly geometrically increases but the output of the Fibonacci is only the a few dozen values.   Perl’s overwhelming Python in speed of numerical calculations and capacity.   But now I like Python, it’s some easy code, but I thought I’d be able to brag, but only to those who are programming language illiterate.  Perl gives a better shake, though once too thought so simple as to be lame by C++ or Assembly in turn. 
+It’s a good program because the size of the numbers rapidly geometrically increases but the output of the Fibonacci is only a few dozen values.   Perl’s overwhelming Python in the speed of numerical calculations and capacity.   But one just simply can't like Python in that it breaks in numeric calculations, sure it’s some easy kiddie in bypassing rules but fundamentally challenged.  Perl gives a better shake, though once too thought so simple as to be lame by C++ or Assembly in turn.
+
+Perl is the better language, and my code (origin of the first web login and first web-based social site) has the lowest latency as I don't used overpacked libraries but wrote my own. 
